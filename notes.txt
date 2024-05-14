@@ -1,0 +1,11 @@
+verificar que no existe el twap en ref
+definir cómo lo vamos a implementar nosotros
+
+buscar las pools de ref finance
+wnear -> usdc/usdt
+
+investigar cómo hace uniswap para determinar el precio
+liqt1/liqt2 
+
+investigar cómo se calcula el precio en las stable pools
+

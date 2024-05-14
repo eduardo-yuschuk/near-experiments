@@ -1,0 +1,1 @@
+near contract call-function as-read-only v2.ref-finance.near get_pools json-args '{ "from_index": 0, "limit": 2 }' network-config mainnet now

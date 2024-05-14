@@ -1,0 +1,157 @@
+near contract call-function as-read-only v2.ref-finance.near get_guardians json-args {} network-config mainnet now
+--------------
+No logs
+--------------
+Result:
+[
+  "nknight.near",
+  "colibri.near",
+  "reffer.near",
+  "sunhao.near",
+  "mob.near"
+]
+--------------
+
+
+near contract call-function as-read-only v2.ref-finance.near version json-args {} network-config mainnet now
+--------------
+No logs
+--------------
+Result:
+"1.9.1"
+--------------
+
+
+near contract call-function as-read-only v2.ref-finance.near get_number_of_pools json-args {} network-config mainnet now
+--------------
+No logs
+--------------
+Result:
+5079
+--------------
+
+
+near contract call-function as-read-only v2.ref-finance.near get_pools json-args '{ "from_index": 0, "limit": 2 }' network-config mainnet now
+--------------
+No logs
+--------------
+Result:
+[
+  {
+    "amounts": [
+      "53054329510623749371618",
+      "5049699366912812312063216155"
+    ],
+    "amp": 0,
+    "pool_kind": "SIMPLE_POOL",
+    "shares_total_supply": "1183948865038809240504858043",
+    "token_account_ids": [
+      "token.skyward.near",
+      "wrap.near"
+    ],
+    "total_fee": 30
+  },
+  {
+    "amounts": [
+      "1416187243804802496",
+      "608135659088489234996329255"
+    ],
+    "amp": 0,
+    "pool_kind": "SIMPLE_POOL",
+    "shares_total_supply": "33710243117364448735273112",
+    "token_account_ids": [
+      "c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near",
+      "wrap.near"
+    ],
+    "total_fee": 30
+  }
+]
+--------------
+
+
+near contract call-function as-read-only v2.ref-finance.near get_pool json-args '{ "pool_id": 1 }' network-config mainnet now
+--------------
+No logs
+--------------
+Result:
+{
+  "amounts": [
+    "1416187243804802496",
+    "608135659088489234996329255"
+  ],
+  "amp": 0,
+  "pool_kind": "SIMPLE_POOL",
+  "shares_total_supply": "33710243117364448735273112",
+  "token_account_ids": [
+    "c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near",
+    "wrap.near"
+  ],
+  "total_fee": 30
+}
+--------------
+
+get_stable_pool ERROR
+
+get_rated_pool ERROR
+
+near contract call-function as-read-only v2.ref-finance.near get_pool_fee json-args '{ "pool_id": 1 }' network-config ma
+innet now
+--------------
+No logs
+--------------
+Result:
+30
+--------------
+
+
+near contract call-function as-read-only v2.ref-finance.near get_pool_volumes json-args '{ "pool_id": 1 }' network-confi
+g mainnet now
+--------------
+No logs
+--------------
+Result:
+[
+  {
+    "input": "3126777366500158671645",
+    "output": "1276649625643938546781444944082"
+  },
+  {
+    "input": "1231204271908434291691875679939",
+    "output": "3039465265244820839189"
+  }
+]
+--------------
+
+
+get_pool_volumes_by_ids
+
+
+near contract call-function as-read-only v2.ref-finance.near list_pool_volumes json-args '{ "from_index": 0, "limit": 2 }' network-config mainnet now
+--------------
+No logs
+--------------
+Result:
+[
+  [
+    {
+      "input": "431266500546424177519402",
+      "output": "1112170666564745372141050270215"
+    },
+    {
+      "input": "1023748573399265957796802888948",
+      "output": "355315269161149247319563"
+    }
+  ],
+  [
+    {
+      "input": "3126777366500158671645",
+      "output": "1276649625643938546781444944082"
+    },
+    {
+      "input": "1231204271908434291691875679939",
+      "output": "3039465265244820839189"
+    }
+  ]
+]
+--------------
+
