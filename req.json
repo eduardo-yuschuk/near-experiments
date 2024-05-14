@@ -1,0 +1,12 @@
+{
+    "method": "query",
+    "params": {
+        "request_type": "call_function",
+        "account_id": "v2.ref-finance.near",
+        "method_name": "get_pool",
+        "args_base64": "eyJwb29sX2lkIjo0NTEyfQ==",
+        "finality": "optimistic"
+    },
+    "id": 123,
+    "jsonrpc": "2.0"
+}

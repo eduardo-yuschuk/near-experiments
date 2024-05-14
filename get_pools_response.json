@@ -1,0 +1,142 @@
+[
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "wrap.testnet",
+        "rft.tokenfactory.testnet"
+      ],
+      "amounts": [
+        "5270185033514012321514380443",
+        "3999192856009"
+      ],
+      "total_fee": 40,
+      "shares_total_supply": "1554407940193694305054909522",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "nusdt.ft-fin.testnet",
+        "nusdc.ft-fin.testnet"
+      ],
+      "amounts": [
+        "146719",
+        "71685"
+      ],
+      "total_fee": 20,
+      "shares_total_supply": "1004742925091042658670288",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "wrap.testnet",
+        "rft.tokenfactory.testnet"
+      ],
+      "amounts": [
+        "752963362910778411501794897",
+        "584896445159"
+      ],
+      "total_fee": 20,
+      "shares_total_supply": "935378795874795989441031909",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "nusdt.ft-fin.testnet",
+        "rft.tokenfactory.testnet"
+      ],
+      "amounts": [
+        "2161788",
+        "9388800147337"
+      ],
+      "total_fee": 30,
+      "shares_total_supply": "1006029115022739894870332",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "nusdt.ft-fin.testnet",
+        "rft.tokenfactory.testnet"
+      ],
+      "amounts": [
+        "0",
+        "0"
+      ],
+      "total_fee": 30,
+      "shares_total_supply": "0",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "banana.ft-fin.testnet",
+        "nusdt.ft-fin.testnet"
+      ],
+      "amounts": [
+        "68541892",
+        "717825"
+      ],
+      "total_fee": 10,
+      "shares_total_supply": "7002754605088918420429056",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "wrap.testnet",
+        "nusdc.ft-fin.testnet"
+      ],
+      "amounts": [
+        "184443338024135970802823179",
+        "1613"
+      ],
+      "total_fee": 20,
+      "shares_total_supply": "2743384250023067041353898",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "banana.ft-fin.testnet",
+        "nusdc.ft-fin.testnet"
+      ],
+      "amounts": [
+        "2496",
+        "19"
+      ],
+      "total_fee": 30,
+      "shares_total_supply": "171857435345695943621",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "rft.tokenfactory.testnet",
+        "wrap.testnet"
+      ],
+      "amounts": [
+        "12347842768",
+        "10117526529889129073514041"
+      ],
+      "total_fee": 20,
+      "shares_total_supply": "496642009388776384601916",
+      "amp": 0
+    },
+    {
+      "pool_kind": "SIMPLE_POOL",
+      "token_account_ids": [
+        "wrap.testnet",
+        "rft.tokenfactory.testnet"
+      ],
+      "amounts": [
+        "1570781870068613212239",
+        "13143706"
+      ],
+      "total_fee": 20,
+      "shares_total_supply": "1003143023411184914024271",
+      "amp": 0
+    }
+  ]
