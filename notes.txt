@@ -1,3 +1,5 @@
+14/05/2024 - Mañana
+
 verificar que no existe el twap en ref
 definir cómo lo vamos a implementar nosotros
 
@@ -8,4 +10,6 @@ investigar cómo hace uniswap para determinar el precio
 liqt1/liqt2 
 
 investigar cómo se calcula el precio en las stable pools
+
+14/05/2024 - Meet "Price Strategy Oracle"
 

@@ -1,0 +1,23 @@
+near contract call-function as-read-only v2.ref-finance.near get_pool json-args '{ "pool_id": 1 }' network-config mainnet now
+--------------
+No logs
+--------------
+Result:
+{
+  "amounts": [
+    "1416187243804802496",
+    "608135659088489234996329255"
+  ],
+  "amp": 0,
+  "pool_kind": "SIMPLE_POOL",
+  "shares_total_supply": "33710243117364448735273112",
+  "token_account_ids": [
+    "c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.factory.bridge.near",
+    "wrap.near"
+  ],
+  "total_fee": 30
+}
+--------------
+
+
+near contract call-function as-read-only v2.ref-finance.near get_unit_share_twap_token_amounts json-args '{ "pool_id": 1 }' network-config mainnet now

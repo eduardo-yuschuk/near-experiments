@@ -1,0 +1,1211 @@
+[
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.skyward.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "53022050485206693735953",
+            "5052798543475497410383177321"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1183949450727851174683235025",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "SKYWARD",
+            "wNEAR"
+        ],
+        "id": "0",
+        "tvl": "71540.53873202033",
+        "token0_ref_price": "0.6756498729379841"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "852785750323",
+            "120042188358117607144902349168"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "2091610182471139784524068841",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "USDC.e",
+            "wNEAR"
+        ],
+        "id": "3",
+        "tvl": "1704737.6515323767",
+        "token0_ref_price": "0.9980222056204534"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "828390913378",
+            "116240407297767976778750691806"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "3114940871917279359786681718",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "USDT.e",
+            "wNEAR"
+        ],
+        "id": "4",
+        "tvl": "1652092.2119805177",
+        "token0_ref_price": "0.9948738867505087"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.v2.ref-finance.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "4789504062378644594277014",
+            "225660977021161235733964743317"
+        ],
+        "total_fee": 40,
+        "shares_total_supply": "46055148590179176259003972936",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "REF",
+            "wNEAR"
+        ],
+        "id": "79",
+        "tvl": "3193472.5774666024",
+        "token0_ref_price": "0.33405052093962434"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.paras.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "2064568950303482532386215",
+            "4416306461983288360097794535"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "23097870853402225701892585325",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "PARAS",
+            "wNEAR"
+        ],
+        "id": "377",
+        "tvl": "62529.27571691491",
+        "token0_ref_price": "0.01516617442631734"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "marmaj.tkn.near",
+            "meta-pool.near"
+        ],
+        "amounts": [
+            "8233570741507089617988",
+            "4907784798311907637018263670"
+        ],
+        "total_fee": 19,
+        "shares_total_supply": "5066419048719286994919129111",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "marmaj",
+            "STNEAR"
+        ],
+        "id": "553",
+        "tvl": "89609.57296912452",
+        "token0_ref_price": "5.463354160269823"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "wrap.near",
+            "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near"
+        ],
+        "amounts": [
+            "22466752908779079183863667276",
+            "258935302"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "136774768679216859750314794",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "wNEAR",
+            "WBTC"
+        ],
+        "id": "974",
+        "tvl": "319474.4239995036",
+        "token0_ref_price": "7.129875266205747"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "pixeltoken.near",
+            "token.v2.ref-finance.near"
+        ],
+        "amounts": [
+            "15591224421",
+            "106131536092409473373"
+        ],
+        "total_fee": 50,
+        "shares_total_supply": "183134102514661700334276264",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "PXT",
+            "REF"
+        ],
+        "id": "1195",
+        "tvl": "70.62627862599516",
+        "token0_ref_price": "0.002264830102074894"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "aurora",
+            "wrap.near"
+        ],
+        "amounts": [
+            "149670646533081598067",
+            "61029274003455363497675270195"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1274512324955962758861538971",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "ETH",
+            "wNEAR"
+        ],
+        "id": "1207",
+        "tvl": "866904.0719286909",
+        "token0_ref_price": "2890.9980861802433"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "dbio.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "6795512335366794652275867",
+            "3165079741206751776341734115"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "5200093337940426606526467",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "DBIO",
+            "wNEAR"
+        ],
+        "id": "1371",
+        "tvl": "44813.50620391594",
+        "token0_ref_price": "0.0033022403989124136"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "aaaaaa20d9e0e2461697782ef11675f668207961.factory.bridge.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "1031893418575818199440196",
+            "28429634891848010401595268201"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "5248271124535705772522269",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "AURORA",
+            "wNEAR"
+        ],
+        "id": "1395",
+        "tvl": "402527.3302661696",
+        "token0_ref_price": "0.19533617305302386"
+    },
+    {
+        "pool_kind": "STABLE_SWAP",
+        "token_account_ids": [
+            "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+            "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near",
+            "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near"
+        ],
+        "amounts": [
+            "763190086144",
+            "346749566021",
+            "1083875095426760321288680"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "2169304009787194603304270",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "USDT.e",
+            "USDC.e",
+            "DAI"
+        ],
+        "id": "1910",
+        "tvl": "2192412.4369686516"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "meta-pool.near",
+            "meta-token.near"
+        ],
+        "amounts": [
+            "10017228711756291650347889849",
+            "4283511344504160685913422858486"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "14679939523687350302712495",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "STNEAR",
+            "$META"
+        ],
+        "id": "1923",
+        "tvl": "181678.06916892872",
+        "token0_ref_price": "8.970935383826836"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "3ea8ea4237344c9931214796d9417af1a1180770.factory.bridge.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "166200062835241071503742",
+            "2813156879309606476650208513"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "147876120571762233093815",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "FLX",
+            "wNEAR"
+        ],
+        "id": "2330",
+        "tvl": "39830.60941375475",
+        "token0_ref_price": "0.12000766987722167"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "myriadcore.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "44565676210549754122871704",
+            "2236845691136075785753963850"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1453770907873233580764733",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "MYRIA",
+            "wNEAR"
+        ],
+        "id": "2448",
+        "tvl": "31670.8938280149",
+        "token0_ref_price": "0.00035586211853328776"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.v2.ref-finance.near",
+            "f5cfbc74057c610c8ef151a439252680ac68c6dc.factory.bridge.near"
+        ],
+        "amounts": [
+            "720064100309579438862936",
+            "994616268377245582500801"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "2418816270757251720921906",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "REF",
+            "OCT"
+        ],
+        "id": "2657",
+        "tvl": "478452.1397167536",
+        "token0_ref_price": "0.33174345557309065"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "abr.a11bd.near",
+            "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near"
+        ],
+        "amounts": [
+            "74343797621684289729977793346",
+            "15627373791"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "180392913146008117241358983",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "ABR",
+            "USDC.e"
+        ],
+        "id": "2691",
+        "tvl": "30967.190793358295",
+        "token0_ref_price": "0.2104143407415646"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near",
+            "aurora"
+        ],
+        "amounts": [
+            "283060504",
+            "60005448721837253837"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "170428809955749669920489234",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "WBTC",
+            "ETH"
+        ],
+        "id": "2734",
+        "tvl": "349190.32676746766",
+        "token0_ref_price": "61499.43376697571"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "celo.token.a11bd.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "47773408727039355078407084819",
+            "4928563492898337715075298479"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "98810505799103824551580356",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "CELO",
+            "wNEAR"
+        ],
+        "id": "2799",
+        "tvl": "70134.60236820456",
+        "token0_ref_price": "0.7314427857619351"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "celo.token.a11bd.near",
+            "token.v2.ref-finance.near"
+        ],
+        "amounts": [
+            "8388027729165001576157205446",
+            "18366210537956636875324"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "32285000341164803300490764",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "CELO",
+            "REF"
+        ],
+        "id": "2800",
+        "tvl": "12289.530884340193",
+        "token0_ref_price": "0.7285025938931085"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "sol.token.a11bd.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "323108223829198457788001925",
+            "6568736166635510039496794046"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "4929559940185832103250912996",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "SOL",
+            "wNEAR"
+        ],
+        "id": "3019",
+        "tvl": "92776.81542902114",
+        "token0_ref_price": "144.1385145494311"
+    },
+    {
+        "pool_kind": "STABLE_SWAP",
+        "token_account_ids": [
+            "usn",
+            "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near"
+        ],
+        "amounts": [
+            "403200762506608157389862",
+            "12693263618"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "411910196769877317561150",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "USN",
+            "USDT.e"
+        ],
+        "id": "3020",
+        "tvl": "327098.0286232365"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "wrap.near",
+            "4691937a7508860f876c9c0a2a617e7d9e945d4b.factory.bridge.near"
+        ],
+        "amounts": [
+            "264929263173149427257203935",
+            "7131625373658716719336"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "3657805228086810361738278",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "wNEAR",
+            "WOO"
+        ],
+        "id": "3097",
+        "tvl": "3757.8883431253844",
+        "token0_ref_price": "7.094497016735168"
+    },
+    {
+        "pool_kind": "STABLE_SWAP",
+        "token_account_ids": [
+            "usn",
+            "cusd.token.a11bd.near"
+        ],
+        "amounts": [
+            "9155761322267600680349",
+            "326806346490481507142000000"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "9362544390638921316663",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "USN",
+            "cUSD"
+        ],
+        "id": "3433",
+        "tvl": "7466.6959475568"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.pembrock.near",
+            "usn"
+        ],
+        "amounts": [
+            "115088299363505646269759",
+            "261864362202460465266"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "332137242732745750680551",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "PEM",
+            "USN"
+        ],
+        "id": "3448",
+        "tvl": "406.6859414342381",
+        "token0_ref_price": "0.0017742809128017283"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.burrow.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "23262602717228385219271198",
+            "19732311688981204015349446126"
+        ],
+        "total_fee": 60,
+        "shares_total_supply": "3022184698564756544477647478",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "BRRR",
+            "wNEAR"
+        ],
+        "id": "3474",
+        "tvl": "278964.76127538725",
+        "token0_ref_price": "0.006014034266735968"
+    },
+    {
+        "pool_kind": "RATED_SWAP",
+        "token_account_ids": [
+            "meta-pool.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "1062975788108180872511305181433",
+            "985615828110568456384533897395"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "2112394514778721071480367478233",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "STNEAR",
+            "wNEAR"
+        ],
+        "id": "3514",
+        "tvl": "16730853.229209382"
+    },
+    {
+        "pool_kind": "RATED_SWAP",
+        "token_account_ids": [
+            "linear-protocol.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "1159165989605596505289771788422",
+            "1010219114367527621586255310818"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "2014313352333685488426830377858",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "LINEAR",
+            "wNEAR"
+        ],
+        "id": "3515",
+        "tvl": "17143896.0207875"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "wrap.near",
+            "atocha-token.near"
+        ],
+        "amounts": [
+            "457789412838424167906138491",
+            "10723487998811831364773114"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "12654502970896213686274083",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "wNEAR",
+            "ATO"
+        ],
+        "id": "3519",
+        "tvl": "6481.716388941366",
+        "token0_ref_price": "7.068729335291715"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.v2.ref-finance.near",
+            "token.skyward.near"
+        ],
+        "amounts": [
+            "0",
+            "0"
+        ],
+        "total_fee": 60,
+        "shares_total_supply": "0",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "REF",
+            "SKYWARD"
+        ],
+        "id": "2466",
+        "tvl": "0",
+        "token0_ref_price": "N/A"
+    },
+    {
+        "pool_kind": "RATED_SWAP",
+        "token_account_ids": [
+            "nearx.stader-labs.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "360130437500959717872155876388",
+            "241034925164942696754683199"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "290025281183383226017275327143",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "nearx.stader-labs.near",
+            "wNEAR"
+        ],
+        "id": "3612",
+        "tvl": "2.6061192649634585e+30"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.cheddar.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "2197058029511416100689018281857",
+            "1258177887619175058131348316"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1149694505969816582184868",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "Cheddar",
+            "wNEAR"
+        ],
+        "id": "2769",
+        "tvl": "17814.196966620246",
+        "token0_ref_price": "0.004060193724243003"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "utopia.secretskelliessociety.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "168239145870332",
+            "69126957419225992902914234"
+        ],
+        "total_fee": 200,
+        "shares_total_supply": "200677005922061963585853",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "UTO",
+            "wNEAR"
+        ],
+        "id": "2973",
+        "tvl": "970.4177732748537",
+        "token0_ref_price": "0.00029131753229421286"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.sweat",
+            "wrap.near"
+        ],
+        "amounts": [
+            "19737036232506277256102129",
+            "24855116259039067100799093218"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1364826257749456515475167",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "SWEAT",
+            "wNEAR"
+        ],
+        "id": "3667",
+        "tvl": "351916.87134813203",
+        "token0_ref_price": "0.008928532744260437"
+    },
+    {
+        "pool_kind": "RATED_SWAP",
+        "token_account_ids": [
+            "usn",
+            "usdt.tether-token.near"
+        ],
+        "amounts": [
+            "0",
+            "0"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "0",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "USN",
+            "USDt"
+        ],
+        "id": "3699",
+        "tvl": "0"
+    },
+    {
+        "pool_kind": "RATED_SWAP",
+        "token_account_ids": [
+            "v2-nearx.stader-labs.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "13055095045924600275181294193",
+            "2349515351021023148132557982"
+        ],
+        "total_fee": 5,
+        "shares_total_supply": "16166231045478429088307806343",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "NearX",
+            "wNEAR"
+        ],
+        "id": "3688",
+        "tvl": "125176.89403016577"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.stlb.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "548599109335",
+            "2910011276369244332173173899"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1156450982424246869703962",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "SEAT",
+            "wNEAR"
+        ],
+        "id": "3714",
+        "tvl": "41202.060220198706",
+        "token0_ref_price": "0.003760848240250988"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.pembrock.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "721880484539775776424537",
+            "179676141894072501382964371"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1666697456741033706719511",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "PEM",
+            "wNEAR"
+        ],
+        "id": "3449",
+        "tvl": "2543.9842260919236",
+        "token0_ref_price": "0.0017647018769888657"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.pembrock.near",
+            "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near"
+        ],
+        "amounts": [
+            "55062087303100438048698",
+            "97324620"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "156454307334893037451937",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "PEM",
+            "USDC.e"
+        ],
+        "id": "3471",
+        "tvl": "194.2984751076832",
+        "token0_ref_price": "0.001769310779733451"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near",
+            "30d20208d987713f46dfd34ef128bb16c404d10f.factory.bridge.near"
+        ],
+        "amounts": [
+            "1045566134",
+            "1391770507012392767540"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "9134168151917290234416574172",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "USDC.e",
+            "SD"
+        ],
+        "id": "3636",
+        "tvl": "2041.3393086764045",
+        "token0_ref_price": "0.9513770350775388"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+            "myriadcore.near"
+        ],
+        "amounts": [
+            "0",
+            "0"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "0",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "USDT.e",
+            "MYRIA"
+        ],
+        "id": "2439",
+        "tvl": "0",
+        "token0_ref_price": "N/A"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "e99de844ef3ef72806cf006224ef3b813e82662f.factory.bridge.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "654017414464265807495800",
+            "3628607245237765227532371490"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "1094290455691503614893503",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "UMINT",
+            "wNEAR"
+        ],
+        "id": "3815",
+        "tvl": "51376.431160486885",
+        "token0_ref_price": "0.039336606028770225"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "phoenix-bonds.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "74310129533345301474055294",
+            "145884389411023694953579097"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "4821391733465873581744",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "pNEAR",
+            "wNEAR"
+        ],
+        "id": "3819",
+        "tvl": "2051.8852722191778",
+        "token0_ref_price": "13.918968079042651"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "ftv2.nekotoken.near",
+            "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near"
+        ],
+        "amounts": [
+            "143126645538902954026770713171078",
+            "31283337940"
+        ],
+        "total_fee": 40,
+        "shares_total_supply": "646761941219595517890462",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "NEKO",
+            "USDC.e"
+        ],
+        "id": "3804",
+        "tvl": "62404.161841963876",
+        "token0_ref_price": "0.00021878959826127163"
+    },
+    {
+        "pool_kind": "RATED_SWAP",
+        "token_account_ids": [
+            "usdt.tether-token.near",
+            "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
+            "dac17f958d2ee523a2206206994597c13d831ec7.factory.bridge.near",
+            "a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.factory.bridge.near"
+        ],
+        "amounts": [
+            "5129609046790",
+            "1212738084763",
+            "2108754202773",
+            "598884162360"
+        ],
+        "total_fee": 2,
+        "shares_total_supply": "8980799454239776583237203832991",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "USDt",
+            "USDC",
+            "USDT.e",
+            "USDC.e"
+        ],
+        "id": "4179",
+        "tvl": "9047924.594594607"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.lonkingnearbackto2024.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "3722089324025243977",
+            "41447337863713563655120610368"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "6208789743911959887483807",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "LONK",
+            "wNEAR"
+        ],
+        "id": "4314",
+        "tvl": "586841.6806334401",
+        "token0_ref_price": "7.895071823153703e-06"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "wrap.near",
+            "blackdragon.tkn.near"
+        ],
+        "amounts": [
+            "42055714838652210027992689490",
+            "4430284004560185357964903058618017486"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "8244963782463861565588034",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "wNEAR",
+            "BLACKDRAGON"
+        ],
+        "id": "4276",
+        "tvl": "595455.9354800417",
+        "token0_ref_price": "7.068740084778565"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "wrap.near",
+            "ftv2.nekotoken.near"
+        ],
+        "amounts": [
+            "1770864766058218146597887003",
+            "57821041643397293920287596849017"
+        ],
+        "total_fee": 60,
+        "shares_total_supply": "52336614164331076860849072",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "wNEAR",
+            "NEKO"
+        ],
+        "id": "3807",
+        "tvl": "25115.1443940066",
+        "token0_ref_price": "7.092418034049317"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "token.0xshitzu.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "27326542201502622878704269",
+            "4329559568318900490040857692"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "25235741798531834822179606",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "SHITZU",
+            "wNEAR"
+        ],
+        "id": "4369",
+        "tvl": "61301.06384341528",
+        "token0_ref_price": "0.0011233246092033214"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "wrap.near",
+            "neat.nrc-20.near"
+        ],
+        "amounts": [
+            "15838778613375331857169413558",
+            "192973832446528"
+        ],
+        "total_fee": 200,
+        "shares_total_supply": "3108727229829131680747357",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "wNEAR",
+            "NEAT"
+        ],
+        "id": "4243",
+        "tvl": "222347.88604261877",
+        "token0_ref_price": "6.94819647146613"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "438e48ed4ce6beecf503d43b9dbd3c30d516e7fd.factory.bridge.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "41122415016234160078334",
+            "13293264369054457492610353696"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "5935359780722674027676617",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "UWON",
+            "wNEAR"
+        ],
+        "id": "4528",
+        "tvl": "188213.46288718804",
+        "token0_ref_price": "2.2919190018239135"
+    },
+    {
+        "pool_kind": "RATED_SWAP",
+        "token_account_ids": [
+            "853d955acef822db058eb8505911ed77f175b99e.factory.bridge.near",
+            "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1"
+        ],
+        "amounts": [
+            "1439909374069328299111229",
+            "650480179894"
+        ],
+        "total_fee": 2,
+        "shares_total_supply": "2086528357277721095334495337396",
+        "amp": 240,
+        "farming": false,
+        "token_symbols": [
+            "FRAX",
+            "USDC"
+        ],
+        "id": "4514",
+        "tvl": "2088531.7120135934"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "nearnvidia.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "16194248744069678083",
+            "3042753785514974661472550050"
+        ],
+        "total_fee": 20,
+        "shares_total_supply": "1294869827089414688494577",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "NEARVIDIA",
+            "wNEAR"
+        ],
+        "id": "4547",
+        "tvl": "43103.05415956693",
+        "token0_ref_price": "1.332147275260375e-07"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "wrap.near",
+            "myriadcore.near"
+        ],
+        "amounts": [
+            "226177583395693141297509908",
+            "4536506402862484204934979"
+        ],
+        "total_fee": 30,
+        "shares_total_supply": "18477539827754758337938277",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "wNEAR",
+            "MYRIA"
+        ],
+        "id": "4654",
+        "tvl": "3213.126696102012",
+        "token0_ref_price": "7.116211985564949"
+    },
+    {
+        "pool_kind": "SIMPLE_POOL",
+        "token_account_ids": [
+            "nkok.tkn.near",
+            "wrap.near"
+        ],
+        "amounts": [
+            "69546648802953309849424619112",
+            "3353325848496354094314884980"
+        ],
+        "total_fee": 69,
+        "shares_total_supply": "2154741993511050778250454",
+        "amp": 0,
+        "farming": false,
+        "token_symbols": [
+            "nKOK",
+            "wNEAR"
+        ],
+        "id": "4820",
+        "tvl": "47386.09798779299",
+        "token0_ref_price": "3.418580287484612e-07"
+    }
+]
